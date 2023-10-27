@@ -1,3 +1,3 @@
 # itsfirstcontribution
 This is my first  Git Repository !<br>
-Author - Aniket Manikpuri 
+Author - Aniket Manikpuri (MCA Student)
